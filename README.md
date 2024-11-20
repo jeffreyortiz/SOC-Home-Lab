@@ -79,8 +79,8 @@ This home lab is perfect for:
 
 ---
 
-<!-- ## Downloading This Guide
+## Downloading This Guide
 If you'd like to keep this guide for offline use, you can clone the repository:
 
 ```bash
-git clone https://github.com/jeffreyortizit/soc-home-lab.git -->
+git clone https://github.com/jeffreyortiz/soc-home-lab.git
